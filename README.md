@@ -1,11 +1,14 @@
-# YouTube MCP Server
+# YouTube MCP Server by Insightful Pipe
 
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue)](https://insightfulpipe.com/mcp-servers/youtube)
+[![Insightful Pipe](https://img.shields.io/badge/Insightful_Pipe-MCP_Servers-purple)](https://insightfulpipe.com/mcp-servers)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **Connect YouTube Data API and YouTube Analytics to AI assistants with MCP.**
 
-The YouTube MCP server unifies YouTube Data API and YouTube Analytics API, enabling Claude, ChatGPT, Cursor, and other AI assistants to analyze your channel performance, video metrics, and audience insights.
+Part of the [Insightful Pipe MCP Server Collection](https://insightfulpipe.com/mcp-servers) — The YouTube MCP server unifies YouTube Data API and YouTube Analytics API, enabling Claude, ChatGPT, Cursor, and other AI assistants to analyze your channel performance, video metrics, and audience insights.
+
+[![Explore All MCP Servers](https://img.shields.io/badge/Explore_All-MCP_Servers-blue?style=for-the-badge)](https://insightfulpipe.com/mcp-servers)
 
 ![YouTube MCP Server](https://insightfulpipe.com/images/youtube-color-icon.svg)
 
@@ -174,11 +177,20 @@ claude mcp add youtube https://youtube.insightfulmcp.com/
 - **YouTube Partner** - Official API integration
 - **Data encryption** - Secure data handling
 
-## Related MCP Servers
+## Explore More MCP Servers by Insightful Pipe
 
-- [Google Ads MCP](https://insightfulpipe.com/mcp-servers/google-ads) - YouTube advertising
+Visit **[insightfulpipe.com/mcp-servers](https://insightfulpipe.com/mcp-servers)** to discover our full collection of MCP servers for marketing and analytics.
+
+### Video & Social MCP Servers
 - [TikTok Ads MCP](https://insightfulpipe.com/mcp-servers/tiktok-ads) - Short-form video ads
 - [Instagram MCP](https://insightfulpipe.com/mcp-servers/instagram) - Social video analytics
+- [Facebook Pages MCP](https://insightfulpipe.com/mcp-servers/facebook-pages) - Facebook video
+
+### Advertising MCP Servers
+- [Google Ads MCP](https://insightfulpipe.com/mcp-servers/google-ads) - YouTube advertising
+- [Facebook Ads MCP](https://insightfulpipe.com/mcp-servers/facebook-ads) - Meta advertising
+
+**[View All MCP Servers →](https://insightfulpipe.com/mcp-servers)**
 
 ## Resources
 
@@ -189,7 +201,12 @@ claude mcp add youtube https://youtube.insightfulmcp.com/
 ## Support
 
 - **Documentation**: [insightfulpipe.com/docs](https://insightfulpipe.com/docs)
+- **All MCP Servers**: [insightfulpipe.com/mcp-servers](https://insightfulpipe.com/mcp-servers)
 - **Email**: support@insightfulpipe.com
+
+---
+
+**[Insightful Pipe](https://insightfulpipe.com)** — AI-powered marketing analytics through MCP servers. [Explore all integrations →](https://insightfulpipe.com/mcp-servers)
 
 ## License
 
