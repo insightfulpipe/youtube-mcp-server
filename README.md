@@ -100,6 +100,15 @@ Then authorize the connection when Cursor prompts you.
 | `traffic_sources` | Traffic source data showing where viewers discover your content |
 | `video` | Video-level performance metrics including views, watch time, and engagement |
 
+## Control What Your AI Can Do
+
+You decide what AI agents can do with each connected account:
+
+- **Turn individual actions on or off** for every connected account, so agents only see the actions you allow.
+- **Connect as Read-only or Read & Write.** A read-only connection can only enable read actions.
+- **Destructive actions stay off by default.** Actions such as deletes are disabled until an admin enables them.
+- **Team access per account.** Restricted team members only use the accounts they are granted, with the read actions enabled on them.
+
 ## Usage Examples
 
 ### Channel Performance
@@ -148,6 +157,12 @@ Then authorize the connection when Cursor prompts you.
 - **Read-only reports** - No changes to your channel
 - **Official YouTube API** - Direct integration with Google's API
 - **Data encryption** - Secure data handling
+
+## Ready-Made Skills and Prompts
+
+- [Youtube Channel Performance Dashboard](https://insightfulpipe.com/marketing-prompts-library/youtube-youtube-channel-performance-dashboard)
+- [Youtube Video Performance Analysis](https://insightfulpipe.com/marketing-prompts-library/youtube-youtube-video-performance-analysis)
+- [Youtube Audience Demographics Report](https://insightfulpipe.com/marketing-prompts-library/youtube-youtube-audience-demographics-report)
 
 ## Explore More MCP Servers by Insightful Pipe
 
